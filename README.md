@@ -26,5 +26,6 @@ Cursando atualmente Analise e Desenvolvimento de Sistemas (ADS 3° SEMESTRE - FA
 ## 📧 Comercial  
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davilemos164@gmail.com)  
+📫 Entre em contato comigo: davilemos164@gmail.com
 
 [![Currículo](https://img.shields.io/badge/Currículo-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Currículo%20-%20Davi%20Lemos%20Santos.pdf)  
