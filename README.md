@@ -29,3 +29,9 @@ Cursando atualmente Analise e Desenvolvimento de Sistemas (ADS 3° SEMESTRE - FA
 📫 Entre em contato comigo: davilemos164@gmail.com
 
 [![Currículo](https://img.shields.io/badge/Currículo-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Currículo%20-%20Davi%20Lemos%20Santos.pdf)  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davil1613/Davil1613/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Davil1613/Davil1613/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Davil1613/Davil1613/output/github-contribution-grid-snake.svg">
+</picture>
