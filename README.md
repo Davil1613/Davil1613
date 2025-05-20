@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Davil1613)
 
 
-![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=Davil1613&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davil1613&theme=tokyonight)](https://github.com/Davil1613/github-readme-stats)
+![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=Davil1613&show_icons=true&theme=tokyonight&cache_seconds=3600)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davil1613&layout=compact&theme=tokyonight&cache_seconds=3600)
 
 
 ## 🚀 Tecnologias que utilizo
@@ -35,3 +35,5 @@ Cursando atualmente Analise e Desenvolvimento de Sistemas (ADS 3° SEMESTRE - FA
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Davil1613/Davil1613/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Davil1613/Davil1613/output/github-contribution-grid-snake.svg">
 </picture>
+
+![snake gif](https://user-images.githubusercontent.com/112713600/210834429-99258731-0f98-46ea-b0cc-ccf38a664124.svg)
