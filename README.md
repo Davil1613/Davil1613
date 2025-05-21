@@ -21,7 +21,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Cursando atualmente Analise e Desenvolvimento de Sistemas (ADS 3° SEMESTRE - FATEC), aprendendo e aprimorando cada vez mais minhas habilidades de DEV
+Cursando atualmente Analise e Desenvolvimento de Sistemas (ADS 3° SEMESTRE - FATEC), aprendendo e aprimorando cada vez mais minhas habilidades de DEV.
  
 ## 📧 Comercial  
 
